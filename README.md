@@ -1,5 +1,8 @@
 # O meu primeiro repo
-Aprendendo markdown
+
+[Fallou a imaxen](/logo.jpq)
+
+# Aprendendo markdown
 1. Chupi
 1. listas numeradas e **non** _numeradas_
 1. Titulos
