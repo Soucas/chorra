@@ -1,6 +1,6 @@
 # O meu primeiro repo
 
-[Fallou a imaxen](/logo.jpq)
+![Fallou a imaxen](/logo.jpg)
 
 # Aprendendo markdown
 1. Chupi
